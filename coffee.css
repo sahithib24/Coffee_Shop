@@ -1,0 +1,70 @@
+body{
+    margin:0px;
+}
+.you{
+	position:fixed;
+	left:0px;
+	right:0px;
+	height:100px;
+	width:100%;
+	background-color:#0a2d42;
+	z-index: 100;
+}
+.love{
+    height:100%;
+    text-align:center;
+    margin:10px;
+    float:left;
+}
+.me{
+   display:block;
+   color:white;
+   font-weight: bold;
+   font-family: "Helvetica Neue"
+}
+.yo{
+	float:right;
+	height:100%;
+}
+.yo a{
+	color:white;
+	font-size:18px;
+	font-weight:700;
+	font-family:"Helvetica Neue";
+	padding-right:20px;
+	padding-top:12%;
+	display:inline-block;
+	text-decoration: none;
+}
+.site-content{
+    position:absolute;
+    top:78px;
+    width:100%;
+}
+.image-content{
+	background-image: url("https://cdn2.hubspot.net/hubfs/4801849/TechnoShots/assignment/background-image.jpg");
+	height:700px;
+	width:100%;
+	text-align:center;
+}
+.quote{
+     color:white;
+     position:relative;
+     top:10%;
+}
+.card-list{
+	width:100%;
+}
+#product{
+	text-align:center;
+}
+.card{
+	width:22%;
+	padding:1.5%;
+	height:300px;
+	float:left;
+	text-align:center;
+}
+.card img{
+	width:100%;
+}
